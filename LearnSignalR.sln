@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnSignalR.UI", "LearnSignalR.UI\LearnSignalR.UI.csproj", "{BF8FCD91-5148-4007-9B9A-A2DEFBC4F205}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnSignalR.Client", "LearnSignalR.Client\LearnSignalR.Client.csproj", "{BF7057F8-BC0D-401E-92D6-01AB437C8FE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Websockets.Client", "Websockets.Client\Websockets.Client.csproj", "{2DC0E4DE-A6F5-4C66-B151-C0C6885F3CC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF8FCD91-5148-4007-9B9A-A2DEFBC4F205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF8FCD91-5148-4007-9B9A-A2DEFBC4F205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF8FCD91-5148-4007-9B9A-A2DEFBC4F205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF8FCD91-5148-4007-9B9A-A2DEFBC4F205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF7057F8-BC0D-401E-92D6-01AB437C8FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7057F8-BC0D-401E-92D6-01AB437C8FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7057F8-BC0D-401E-92D6-01AB437C8FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7057F8-BC0D-401E-92D6-01AB437C8FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DC0E4DE-A6F5-4C66-B151-C0C6885F3CC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC0E4DE-A6F5-4C66-B151-C0C6885F3CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC0E4DE-A6F5-4C66-B151-C0C6885F3CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC0E4DE-A6F5-4C66-B151-C0C6885F3CC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FC2E67E-1709-40C7-8FEB-4279D51778C0}
+	EndGlobalSection
+EndGlobal
